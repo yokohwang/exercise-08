@@ -12,56 +12,55 @@
       <h1>CatComputing.com</h1>
       <p><em>Grand Opening: Monday, October 8</p>
 
-      <nav>
+  <nav>
         <ul>
           <li><a href="#hardware">Hardware</a></li>
           <li><a href="#software">Software</a></li>
         </ul>
       </nav>
-
-    </header>
+  </header>
     <!-- header ends -->
 
 
 
     <!-- main begins -->
-    <main>
+  <main>
       <section id="hardware">
         <h2>Hardware</h2>
 
-        <article>
+<article>
           <p>The hardware department of CatComputing.com is managed by Flynn's Retro Computers, a web shop dedicated to old-school minicomputers from the 1970s and 1980s. We've got the most complete <em>cat</em>alog anywhere on the Internet!</p>
 
-          <aside>
+  <aside>
             <img src="vintage-computers" alt="An array of our vintage computers" />
             <p>An array of our vintage computers. <em>(Photo by Stefano Paganini, CC BY-SA 2.0)</em></p>
           </aside>
 
-        </article>
+  </article>
       </section>
 
 
-      <section id="software">
+  <section id="software">
         <h2>Software</h2>
         <article>
           <p>The software department of CatComputing.com is managed by Quorra's Software Shack. We can supply all your software needs, from programming languages and operating systems to applications and games.</p>
 
-          <aside>
+   <aside>
             <img src="vintage-software.jpg" />
             <p>Only the finest software! <em>(Photo by Greg Smith, CC BY-NC 2.0)</em></p>
           </aside>
 
-        </article>
+ </article>
       </section>
 
-    </main>
+ </main>
     <!-- main ends -->
 
     <!-- footer begins -->
-    <footer>
+ <footer>
       <p>Menu:</p>
 
-      <nav>
+ <nav>
         <ul>
           <li><a href="top">Return to top</a></li>
           <li><a href="#hardware">Hardware</a></li>
@@ -69,7 +68,7 @@
         </ul>
       </nav>
 
-      <p><small>&copy; 2018. All Rights Reserved.</small></p>
+  <p><small>&copy; 2018. All Rights Reserved.</small></p>
     </footer>
   </body>
 </html>

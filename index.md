@@ -63,7 +63,7 @@
 
  <nav>
         <ul>
-          <li><a href="top">Return to top</a></li>
+          <li><a href="#top">Return to top</a></li>
           <li><a href="#hardware">Hardware</a></li>
           <li><a href="#software">Software</a></li>
         </ul>

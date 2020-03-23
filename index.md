@@ -3,7 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <title>CatComputing.com</title>
-    <link href="/css/style.css" rel="stylesheet" />
+    <link href="exercise-08/css/style.css" rel="stylesheet" />
+
   </head>
 
   <body>

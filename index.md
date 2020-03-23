@@ -9,7 +9,7 @@
 
   <body>
     <!-- header begins -->
-    <section id="top">
+    <header id="top">
       <h1>CatComputing.com</h1>
       <p><em>Grand Opening: Monday, October 8</em></p>
 

@@ -10,14 +10,15 @@
     <!-- header begins -->
     <header id="top">
       <h1>CatComputing.com</h1>
-      <p><em>Grand Opening: Monday, October 8</p>
+      <p><em>Grand Opening: Monday, October 8</em></p>
 
   <nav>
+  <header>
         <ul>
           <li><a href="#hardware">Hardware</a></li>
           <li><a href="#software">Software</a></li>
         </ul>
-      </nav>
+  </nav>
   </header>
     <!-- header ends -->
 
@@ -46,7 +47,7 @@
           <p>The software department of CatComputing.com is managed by Quorra's Software Shack. We can supply all your software needs, from programming languages and operating systems to applications and games.</p>
 
    <aside>
-            <img src="vintage-software.jpg" />
+            <img src="vintage-software.jpg" alt="Vintage Software"/>
             <p>Only the finest software! <em>(Photo by Greg Smith, CC BY-NC 2.0)</em></p>
           </aside>
 
